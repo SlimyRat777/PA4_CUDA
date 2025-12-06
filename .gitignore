@@ -1,0 +1,12 @@
+# Mac junk
+.DS_Store
+
+# Compiled binaries
+raytrace_cuda
+a.out
+
+# Build folders
+build/
+
+# Output images
+out.ppm
